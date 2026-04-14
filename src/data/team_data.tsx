@@ -282,8 +282,8 @@ export const teamMembers: TeamMember[] = [
     role: "Member",
     department: "Computer Science",
     year: "II",
-    image: "https://res.cloudinary.com/doknhsy61/image/upload/v1774979951/zakwan.jpg",
-    linkedin: "https://www.linkedin.com/in/",
+    image: "https://res.cloudinary.com/doknhsy61/image/upload/v1776162058/mee_prof_wzcf0y.jpg",
+    linkedin: "https://www.linkedin.com/in/zakwan-haaziq-533392322/",
   },
   {
     name: "GOKUL S",
